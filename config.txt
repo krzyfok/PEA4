@@ -1,0 +1,21 @@
+Testowanie_czy_plik(0/1): 1
+Rodzaj_algorytmu_dla_pliku: 1
+Plik_wejsciowy1: ftv47.atsp
+Plik_wejsciowy2: ftv170.atsp
+Plik_wejsciowy3: rbg403.atsp
+czas1: 60
+czas2: 90
+czas3: 120
+pop1: 1000
+pop2: 2000
+pop3: 3000
+
+---------
+1.Wybór tesotwania lub pojedynczego pliku:
+    Dla testowania każdy algorytm zostanie powtórzony 10 razy dla każdej z 3 populacji
+    Dla pojedynczego pliku algorytm zostanie wykonany raz dla Pliku_wejsciowego1, czasu1 oraz pop1
+2. WYbór algorytmu dla pojednyczego pliku:
+    1 - Mutacja Reciprocal Exchange 
+    2 - Mutacja Insert
+3-5: Wybór plików wejsciowych
+6:
