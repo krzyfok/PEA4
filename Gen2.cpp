@@ -25,7 +25,6 @@ bool Gen2::pathCheck(int i,int start,int end, vector<int> &sciezka)
 void Gen2::crossing(std::vector<int> &parent1, std::vector<int> &parent2) {
     int startR, endR;
     size_t size = parent1.size();
-    
     std::vector<int> child1(size);
     std::vector<int> child2(size);
     
